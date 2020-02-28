@@ -1,0 +1,7 @@
+There once was a little boy named Kevin who wanted to learn to be the best programmer 
+in the entire kingdom of BeanLand. Java, the king of the beans however, wished his son,
+Delpho, to be the most talented programmer of all, so he hid away the secret knowledge 
+of an ancient mystical power known as GitHub. Without the use of GitHub, Kevin was powerless 
+to compete with Delpho, and realized that he was outmatched.
+
+
