@@ -5,6 +5,6 @@ of an ancient mystical power known as GitHub. Without the use of GitHub, Kevin w
 to compete with Delpho, and realized that he was outmatched. He grabbed his laptop and went to Github.com and started to work...
 Through their easy to follow tutorials and simple user interface, Kevin easily became a master of GitHub.
 His knowledge was great, and I believe that one day Kev will be able to fulfill his dreams as a God-tier programmer
-
+Months pass, and many programs are written. Fatigued by the sands of time and academia, Kevin's dream quickly faded. He decided to settle for a B in CS400.
 
 
